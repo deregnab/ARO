@@ -1,0 +1,22 @@
+vegetaux tonne/are/an valeur non entier
+
+nb vache entier (on va pas nourrir une moitie de vache)
+
+produits laitiers  200 € /vache/an
+
+200 ares
+
+	 combien faut-il de vache à élever et de végétaux à produire pour maximiser le profit?
+
+
+
+cout vache
+
+    60+24+18=102 ==> 98 de gain par vache
+
+
+98*v+100*b+120*bl+90*m=Z(max)
+        
+
+
+
